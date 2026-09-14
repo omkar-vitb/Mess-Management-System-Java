@@ -20,7 +20,8 @@ Living in Ashtha, I noticed that most local hostel and mess in-charges still rel
 )*
 
 ### 2. Admin Console & Real-Time UI
-*(Add a screenshot of your terminal and the Java Swing Dashboard here)*
+*<img width="1911" height="1013" alt="Screenshot 2026-09-15 003105" src="https://github.com/user-attachments/assets/036dc6af-5ec8-4614-b341-a8999e32849c" />
+*
 ![UI Dashboard](link-to-your-ui-image.png)
 
 ## 🛠️ Technology Stack
