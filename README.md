@@ -3,7 +3,7 @@
 A complete Object-Oriented Java application designed to manage hostel/mess student records. This project transitions from a volatile RAM-based array system to a robust, permanent **MySQL** database architecture. It features a text-based admin console and a **Java Swing** graphical dashboard for real-time viewing.
 
 ## 💡 The Problem Statement
-Living in Ashtha, I noticed that most local hostel and mess in-charges still rely on traditional, outdated pen-and-paper methods to manage their student data. Tracking important details—like when a student joined, or whether they opted for just a lunch pass or both meals—is entirely manual. I recognized that this old method was inefficient, hard to search through, and prone to data loss. I built this autonomous system to solve that exact problem, bringing their daily operations into a secure, digital database.
+I am Living in Ashtha where  i noticed that most local hostel and mess in-charges still rely on traditional, outdated pen-and-paper methods to manage their student data. Tracking important details—like when a student joined, or whether they opted for just a lunch pass or both meals—is entirely manual. I recognized that this old method was inefficient, hard to search through, and prone to data loss. I built this autonomous system to solve that exact problem, bringing their daily operations into a secure, digital database.
 
 ## 🚀 Core Features
 *   **Database Persistence:** Permanent data storage using MySQL and JDBC.
@@ -35,7 +35,7 @@ Living in Ashtha, I noticed that most local hostel and mess in-charges still rel
 * Copy the contents of `database.sql` and execute the script to build the `MessManagementDB` and the `students` table.
 
 **2. Java Configuration**
-* Clone this repository to your local machine.
+* one can clone this repository to your local machine.
 * Open `DBConnection.java` and replace the password string with your actual MySQL root password.
 * Ensure the `lib/mysql-connector-j.jar` file is added to your project's build path/referenced libraries.
 
