@@ -19,7 +19,8 @@ Living in Ashtha, I noticed that most local hostel and mess in-charges still rel
 
 ### 1. MySQL Database Live View
 *(Add your MySQL Workbench screenshot here)*
-![MySQL Database View](link-to-your-mysql-image.png)
+![MySQL Database View](![Uploading Screenshot 2026-09-15 001614.png…]()
+)
 
 ### 2. Admin Console & Real-Time UI
 *(Add a screenshot of your terminal and the Java Swing Dashboard here)*
