@@ -18,7 +18,8 @@ Living in Ashtha, I noticed that most local hostel and mess in-charges still rel
 *(Showcasing the live database and UI without needing to run the code locally)*
 
 ### 1. MySQL Database Live View
-*(Add your MySQL Workbench screenshot here)*
+*(<img width="1238" height="1002" alt="Screenshot 2026-09-15 001614" src="https://github.com/user-attachments/assets/b6bc76dc-8d45-4111-887f-4b330ad2f61e" />
+)*
 ![MySQL Database View](<img width="1238" height="1002" alt="Screenshot 2026-09-15 001614" src="https://github.com/user-attachments/assets/859c2731-86df-4c4b-a2ef-4242dbde97fe" />
 )
 
