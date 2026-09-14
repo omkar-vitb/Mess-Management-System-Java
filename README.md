@@ -16,13 +16,12 @@ Living in Ashtha, I noticed that most local hostel and mess in-charges still rel
 ## 📸 Project Screenshots
 
 ### 1. MySQL Database Live View
-*(<img width="1238" height="1002" alt="Screenshot 2026-09-15 001614" src="https://github.com/user-attachments/assets/b6bc76dc-8d45-4111-887f-4b330ad2f61e" />
-)*
+*<img width="1238" height="1002" alt="Screenshot 2026-09-15 001614" src="https://github.com/user-attachments/assets/b6bc76dc-8d45-4111-887f-4b330ad2f61e" />
+*
 
 ### 2. Admin Console & Real-Time UI
 *<img width="1911" height="1013" alt="Screenshot 2026-09-15 003105" src="https://github.com/user-attachments/assets/036dc6af-5ec8-4614-b341-a8999e32849c" />
 *
-![UI Dashboard](link-to-your-ui-image.png)
 
 ## 🛠️ Technology Stack
 *   **Language:** Java (JDK 8+)
