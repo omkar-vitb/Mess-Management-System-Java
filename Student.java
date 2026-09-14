@@ -1,6 +1,6 @@
 import java.sql.Date;
 
-
+// This java file cretes the blueprint for a single student. It holds the variables that matches the column i createdin Mysql database.
 public class Student 
     implements Subscriber{
         private int serialNo;
@@ -13,12 +13,13 @@ public class Student
         public Student(int serialNo, String name,boolean includeLunch,boolean includeDinner, double monthlyPrice,Date joinDate){
             this.serialNo=serialNo;
             this.name=name;
-            this.includeLunch=includeDinner;
+            this.includeLunch=includeLunch;
             this.includeDinner=includeDinner;
             this.monthlyPrice=monthlyPrice;
             this.joinDate=joinDate;
         }
 
+        // override function used which allows a subclass to provide it speciifc implemenatation of a method.
         @Override 
         public String getDetails(){
             return "ID"+ serialNo+" | Name: "+ name +" | joined: "+ joinDate;
@@ -29,7 +30,7 @@ public class Student
             return monthlyPrice;
         } 
 
-        //Getters
+        //Getters methid  used to read the private object properties
         public int getSerialNo(){
             return serialNo;
         }
@@ -49,7 +50,7 @@ public class Student
             return joinDate;
         }
 
-        //setters
+        //setters method used to write the private object properties.
         public void setIncludeLunch(boolean includeLunch){
             this.includeLunch=includeLunch;
         }
