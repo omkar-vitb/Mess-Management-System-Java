@@ -1,3 +1,5 @@
+-- this is the main blueprint to store all the students record permanently in mysql--
+
 CREATE DATABASE MessManagementDB;
 USE MessManagementDB;
 
