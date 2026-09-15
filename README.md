@@ -32,13 +32,13 @@ I am Living in Ashtha where  i noticed that most local hostel and mess in-charge
 
 **1. Database Configuration**
 * Open MySQL Workbench.
-* Copy the contents of `database.sql` and execute the script to build the `MessManagementDB` and the `students` table.
+* Navigate to the `database/` folder, copy the contents of `database.sql`, and execute the script to build the `MessManagementDB` and the `students` table.
 
 **2. Java Configuration**
-* one can clone this repository to your local machine.
-* Open `DBConnection.java` and replace the password string with your actual MySQL root password.
-* Ensure the `lib/mysql-connector-j.jar` file is added to your project's build path/referenced libraries.
+* Clone this repository to your local machine.
+* Navigate to the `src/` folder and open `DBConnection.java`. Replace the password string with your actual MySQL root password.
+* Ensure the `lib/mysql-connector-j-26.7.0.jar` file is added to your IDE's referenced libraries.
 
 **3. Running the Application**
-* Run `MessManagement.java` to open the interactive Admin Terminal.
-* Run `EnrolledStudentUI.java` to open the live graphical dashboard.
+* Run the `MessManagement.java` file (located in `src/`) to open the interactive Admin Terminal.
+* Run the `EnrolledStudentUI.java` file (located in `src/`) to open the live graphical dashboard.
