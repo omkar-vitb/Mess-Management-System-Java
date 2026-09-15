@@ -39,6 +39,6 @@ I am Living in Ashtha where  i noticed that most local hostel and mess in-charge
 * Navigate to the `src/` folder and open `DBConnection.java`. Replace the password string with your actual MySQL root password.
 * Ensure the `lib/mysql-connector-j-26.7.0.jar` file is added to your IDE's referenced libraries.
 
-**3. Running the Application**
+**3. Running & testing the Application**
 * Run the `MessManagement.java` file (located in `src/`) to open the interactive Admin Terminal.
 * Run the `EnrolledStudentUI.java` file (located in `src/`) to open the live graphical dashboard.
